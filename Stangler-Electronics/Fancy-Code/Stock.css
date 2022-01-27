@@ -1,0 +1,167 @@
+																	/*  M Y   C O D E   */
+
+* { box-sizing: border-box;
+	margin: 0;
+	padding: 0;}
+
+			hr {
+				background-color: rgba(0, 0, 0, 1);
+				display: block;
+  				margin-top: 0px;
+  				margin-bottom: 0px;
+ 				margin-left: 0px;
+  				margin-right: 0px;
+  				border-style: inset;
+  				border-width: 0px;}
+
+			p { 
+				color: rgba(0, 0, 0, 1); 
+				text-align: center;
+				text-indent: 50px;
+				background-color: rgb(255,25,20);
+				background: rgba( 234, 204, 39, .3);
+				font-family: 'Amatic SC', cursive;
+				font-size: 25px;
+				
+				margin-left: 113px;
+				margin-right: 113px;}
+			
+			h1 {
+				color: rgba(0, 0, 0, 1); 
+				text-align: center;
+				font-family: 'storefront pro', 'regular';
+				font-size: 100px;}
+			
+			h2 {
+				color: rgba( 0, 0, 0, 1); 
+				text-align: center;
+				font-family: 'hwt-arabesque', 'regular';
+				font-style: normal;
+				font-weight: 400;
+				font-size: 50px;
+				padding: 7px }
+
+			h3 {
+				color: rgba( 0, 0, 0, 1);
+				text-align: center;
+				font-family: cursive;
+				font-size: 30px;
+				padding: 7px }
+			
+			h4 {
+				color: rgba(0, 0, 0, 1); 
+				text-align: center;
+				font-family: 'pantelleria', cursive;
+				font-size: 20px;
+				padding: 3px }
+
+			body {
+				position: relative;
+  				text-align: center;
+				margin: 0;
+				color: rgba(0, 0, 0, 1);}
+
+			div {
+				background-color: rgba(100, 147, 250, 1);
+}
+
+			nav {
+				width: 100%;
+				height: 100px;
+				background-image: url("StCharles.jpeg");
+				background-attachment: fixed;
+  				background-position: center;
+ 	 			background-repeat: no-repeat;
+  				background-size: 100%;}
+
+			ul {}
+
+			ul li {
+				list-style: none;
+				display: inline-block;
+				line-height: 100px;}
+
+			ul li a {
+				color: rgba( 0, 0, 0, 1);
+				display: block;
+				text-decoration: none;
+				font-family: 'Storefront Pro', 'bold';
+				font-style: normal;
+				font-size: 33px;
+				font-weight: 1000;
+				padding: 0 113px;
+				background-color: rgba( 157, 73, 12, .5);}
+
+			ul li a:hover {color: rgba(255, 0, 0, 1)}
+
+			ul li a.active {color: rgba(255, 0, 0, 1)}
+			
+			.parallax { 
+				background-image: url("StCharles.jpeg");
+				min-height: 250px;
+				background-attachment: fixed;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;}
+			
+			.parallax2 { 
+				background-image: url("StCharles.jpeg");
+				min-height: 150px;
+				background-attachment: fixed;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;}
+
+			.parallax3 { 
+				background-image: url("StCharles.jpeg");
+				min-height: 150px;
+				background-attachment: fixed;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;}
+
+			.img-sunsetandme {
+				padding-left: 25px;
+				padding-bottom: 25px;
+				padding-top: 25px;
+				width: 333px;
+				height: 400px;}
+
+			.img-mefull {
+				padding-left: 25px;
+				padding-bottom: 25px;
+				padding-top: 25px;
+				width: 333px;
+				height: 400px;}
+
+			.img-forestandme {
+				padding-left: 25px;
+				padding-bottom: 25px;
+				padding-top: 25px;
+				width: 333px;
+				height: 400px;}
+
+			.header {
+				background-image: url("OrangeMatrix.jpeg");
+				background-size: 100%;
+				background-attachment: fixed}
+
+			.centered {
+				position: absolute;}
+			
+			.container {
+				padding-left: 30px;
+				padding-right: 30px;
+				position:absolute;
+				background-image: url("OrangeMatrix.jpeg");
+				background-size: 100%;
+				background-attachment: fixed;}
+			
+			.content {
+    			padding-left:30px; 
+				padding-right: 30px;
+  	  			width: 100%;
+				position:relative;
+				background-image: url("OrangeMatrix.jpeg");
+				background-size: 100%;
+				background-attachment: fixed;}
